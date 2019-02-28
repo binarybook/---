@@ -4,5 +4,7 @@
 Краткий курс торговли бинарными опционами для новичков. Обзор популярного брокера и стратегии торговли, которая поможет вам начать получать прибыль при минимальных затратах.
 
 # Читать или скачать руководство можно по этим ссылкам:
+
 https://sites.google.com/view/binarnye-opciony/home
+
 https://drive.google.com/file/d/1ZtIfqvz_pBF7o3RkGPfZlf7OthV0NnZ7/view?usp=sharing
