@@ -5,6 +5,8 @@
 
 # Читать или скачать руководство можно по этим ссылкам:
 
+https://binclick.com/ - Основной сайт книги "Бинарные опционы - стратегия для новичков"
+
 https://sites.google.com/view/binarnye-opciony/home
 
 https://drive.google.com/file/d/1ZtIfqvz_pBF7o3RkGPfZlf7OthV0NnZ7/view?usp=sharing
